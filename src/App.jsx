@@ -51,6 +51,10 @@ export default function App() {
 
     <div className="gradient-bg min-h-screen overflow-hidden relative">
 
+      <audio autoPlay loop>
+  <source src="/her1.mp3" type="audio/mp3" />
+</audio>
+
       {/* HEART RAIN */}
 
       {[...Array(40)].map((_, i) => (
