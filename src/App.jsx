@@ -301,7 +301,7 @@ className="mt-14 px-16 py-5 bg-pink-400 hover:bg-pink-500 text-white rounded-ful
 
     <div className="absolute inset-0 flex items-center justify-center px-8 md:px-28">
 
-      <p className="text-[13px] md:text-[24px] leading-[28px] md:leading-[46px] text-[#a84f73] cursive text-center max-w-[500px]">
+      <p className="text-[13px] md:text-[24px] leading-[28px] md:leading-[46px] text-[#5c1f38] cursive text-center max-w-[500px]">
 
   Naaa Bngrmmhh🤌🏻💕,
 
@@ -319,34 +319,26 @@ className="mt-14 px-16 py-5 bg-pink-400 hover:bg-pink-500 text-white rounded-ful
   and then I realize it’s because you are in it😍.
 
   <br /><br />
-
   You are the peace in my chaos😇,
   the warmth in my cold days🤗,
   and the reason behind so many of my smiles💫.
 
   <br /><br />
-
   On your special day,
   I just want to remind you how deeply special you are to me...
-
-  <br /><br />
-
-  No matter where life takes us,
-  one thing will always remain the same —
-  my heart will always choose you🥺🥺.
-
 <br /><br />
-
   You deserve every happiness💞,
   every success,
   and every beautiful moment in this world💖.
-
-  <br /><br />
 
   May your smile never fade💜,
   may your dreams always shine brightly🪐,
   and may your heart always stay as beautiful as it is today❤️.
 
+ <br /><br />
+  No matter where life takes us,
+  one thing will always remain the same —
+  my heart will always choose you🥺🥺.
 <br /><br />
   Happy Birthday Nanna💘✨
 
