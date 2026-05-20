@@ -14,7 +14,23 @@ export default function App() {
   "/3.jpeg",
   "/4.jpeg",
   "/5.jpeg",
-  "/6.jpeg"
+  "/6.jpeg",
+  "/8.jpeg",
+  "/9.jpeg",
+  "/a.jpeg",
+"/b.jpeg",
+"/c.jpeg",
+"/d.jpeg",
+"/e.jpeg",
+"/f.jpeg",
+"/g.jpeg",
+"/h.jpeg",
+"/i.jpeg",
+"/j.jpeg",
+"/k.jpeg",
+"/l.jpeg",
+"/m.jpeg"
+
 ];
 
   useEffect(() => {
@@ -118,7 +134,7 @@ export default function App() {
               onClick={() => setPage(2)}
               className="mt-14 px-16 py-5 bg-pink-400 hover:bg-pink-500 text-white rounded-full text-2xl shadow-2xl transition-all cursive flex items-center justify-center text-center leading-[1.6] tracking-wide min-w-[320px]"
             >
-              See Memories 📸
+              see how cute you are.. 📸
             </motion.button>
                 <div className="h-[250px]"></div>
           </motion.section>
@@ -195,7 +211,7 @@ export default function App() {
     whileTap={{ scale: 0.95 }}
     onClick={() => setPage(3)}
 className="mt-14 px-16 py-5 bg-pink-400 hover:bg-pink-500 text-white rounded-full text-2xl shadow-2xl transition-all cursive flex items-center justify-center text-center leading-[1.6] tracking-wide min-w-[320px]"  >
-    Read My Letter 💌
+    My Note 💌
   </motion.button>
 
 </div>
@@ -287,41 +303,52 @@ className="mt-14 px-16 py-5 bg-pink-400 hover:bg-pink-500 text-white rounded-ful
 
       <p className="text-[13px] md:text-[24px] leading-[28px] md:leading-[46px] text-[#a84f73] cursive text-center max-w-[500px]">
 
-  My dearest Bngrmmhh,
+  Naaa Bngrmmhh🤌🏻💕,
 
   <br /><br />
 
-  Every moment with you feels like a beautiful dream.
+  Every moment with you feels like a beautiful dream💭.
 
-  Your smile brightens my darkest days,
-  your voice calms my heart,
-  and your presence makes life complete.
+  Your smile brightens my darkest days🥰✨,
+  your voice calms my heart🎶,
+  and your presence makes my life complete💝.
 
   <br /><br />
 
   Sometimes I wonder how life became so beautiful,
-  and then I realize it’s because you are in it.
+  and then I realize it’s because you are in it😍.
 
   <br /><br />
 
-  You are the peace in my chaos,
-  the warmth in my cold days,
-  and the reason behind so many of my smiles.
+  You are the peace in my chaos😇,
+  the warmth in my cold days🤗,
+  and the reason behind so many of my smiles💫.
 
   <br /><br />
 
   On your special day,
-  I just want to remind you how deeply special you are to me.
+  I just want to remind you how deeply special you are to me...
 
   <br /><br />
 
-  You deserve every happiness,
+  No matter where life takes us,
+  one thing will always remain the same —
+  my heart will always choose you🥺🥺.
+
+<br /><br />
+
+  You deserve every happiness💞,
   every success,
-  and every beautiful moment in this world.
+  and every beautiful moment in this world💖.
 
   <br /><br />
 
-  Happy Birthday Nanna❤️✨
+  May your smile never fade💜,
+  may your dreams always shine brightly🪐,
+  and may your heart always stay as beautiful as it is today❤️.
+
+<br /><br />
+  Happy Birthday Nanna💘✨
 
   <br /><br />
 
